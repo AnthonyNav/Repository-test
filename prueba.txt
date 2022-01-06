@@ -1,0 +1,4 @@
+Holas wenas, como estan esta es una prueba para
+checar exactamente como son los conflictos en 
+git con merge y nada aqui andaremos haciendo unas
+pruebas jsjsjsjjsjs
