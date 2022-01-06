@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Wenas tardes, i'm anthony and i'm a developer engineer and i´m 17 years old
 I would like to work in Google 
 i study in Basave High School
@@ -5,3 +6,15 @@ and i´m a Platzinauta
 I have a pet, it´s Nicolas
 Nicolas is a dog
 and a other dog called Botitas
+=======
+
+
+
+
+
+
+
+
+
+La verdad no se bien que hago jsjsjsjjs
+>>>>>>> Experimental
