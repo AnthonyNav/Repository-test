@@ -16,6 +16,6 @@ def run():
         """)
         # End of the script
     else:
-         print("Ok don't worry, i'm ok")
+         print("Ok don't worry, Anyway, i already know it")
 if __name__ == '__main__':
     run()
