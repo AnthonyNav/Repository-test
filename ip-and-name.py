@@ -3,7 +3,11 @@ import socket
 # We define the instructions
 # We bring the hostname with a method 
 def run():
-    answer = input("Do you want to know your IP and hostname?")
+    answer = input("""
+    Do you want to know your IP and hostname? 
+    If your answer is yes, please write "y" 
+    If your answer is not, please write "n"
+    """)
     if answer == "y":
         # We bring the hostname with a method 
         hostname = socket.gethostname()
