@@ -17,7 +17,7 @@ def run():
         print(f"""
         Your device's name is {hostname}
         And your IP is {ip} 
-        """)
+        Your welcome, have a nice day""")
         # End of the script
     else:
          print("Ok don't worry, Anyway, i already know it")
