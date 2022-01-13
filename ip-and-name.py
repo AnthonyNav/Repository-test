@@ -3,6 +3,7 @@ import socket
 # We define the instructions
 # We bring the hostname with a method 
 def run():
+    print("Hey, How are you?, Welcome!!! this is our repository")
     answer = input("""
     Do you want to know your IP and hostname? 
     If your answer is yes, please write "y" 
