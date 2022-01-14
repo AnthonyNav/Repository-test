@@ -18,11 +18,12 @@ def run():
         print(f"""
         Your device's name is {hostname}
         And your IP is {ip} 
-        Your welcome, have a nice day""")
-        print("hey don´t forget it, we are your friends :3")
+        Your welcome, have a nice day
+        Bye bye """)
+        print("hey don't forget it, we are your friends :3")
         # End of the script
     else:
          print("Ok don't worry, Anyway, i already know it")
-         print("hey don´t forget it, we are your friends :3")
+         print("hey don't forget it, we are your friends :3 bye bye")
 if __name__ == '__main__':
     run()
